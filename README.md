@@ -1,8 +1,8 @@
-# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/circle.svg" card_color="#FFA900" width="50" height="50" style="vertical-align:bottom"/> Tado
+# <img src="https://www.svgrepo.com/show/97494/power-on.svg" card_color="#FFA900" width="50" height="50" style="vertical-align:bottom"/> Tado
 Interact with tado's api configuring your heating system
 
 ## About
-Allows to turn on/off the heating system, increase/decrease the temperature some degrees, or a number of degrees (celsius and fahrenheit)
+Allows to turn on/off the heating system, increase/decrease the temperature some degrees, or a number of degrees (Celsius and fahrenheit)
 
 ## Examples
 * "I am leaving home"
