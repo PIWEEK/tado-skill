@@ -1,7 +1,7 @@
 
 skillMetadata:
   sections:
-    - name: Login << Name of another section
+    - name: TADO Login
       fields:
         - type: label
           label: The user you use to log into https://www.tado.com

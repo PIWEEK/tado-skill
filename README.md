@@ -2,7 +2,7 @@
 Interact with tado's api configuring your heating system
 
 ## About
-Allows to turn on/off the heating system, increase/decrease the temperature some degrees, or a number of degrees (Celsius and fahrenheit)
+Allows to turn on/off the heating system, increase/decrease the temperature some degrees, or a number of degrees (Celsius and Fahrenheit)
 
 ## Examples
 * "I am leaving home"
@@ -19,8 +19,8 @@ Daniel Herrero García
 ## Tags
 #Heating
 #Temperature
-#Turn off
-#Turn on
 #Stop
 #Start
+#Increase
+#Decrease
 
