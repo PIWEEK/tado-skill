@@ -7,8 +7,9 @@ Allows to turn on/off the heating system, increase/decrease the temperature some
 ## Examples
 * "I am leaving home"
 * "I am going home"
-* "Set the temperature to 22 degrees"
-* "Increase the temperature 35 degrees"
+* "Set the 'main' room to 22 degrees Farenheit"
+* "Set 'main' room to 22 degrees Celsius"
+
 
 ## Credits
 Daniel Herrero García
